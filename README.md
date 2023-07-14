@@ -18,8 +18,6 @@ jsDelivr为融合CDN，在全球分布750余节点（包括中国），并Github
 ```
 
 ## 安装插件
-项目地址：<https://github.com/AyagawaSeirin/UploadGithubForTypecho><br>
-[点击这里直接下载](https://github.com/AyagawaSeirin/UploadGithubForTypecho/archive/master.zip "点击这里直接下载")<br>
 解压至插件目录并将文件夹重命名为“UploadGithubForTypecho”
 
 ## 注意事项
