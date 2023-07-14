@@ -7,6 +7,8 @@
 jsDelivr为融合CDN，在全球分布750余节点（包括中国），并Github仓库文件提供免费的访问加速服务。<br>
 本插件利用此服务来加速文章附件（图片等）访问速度。
 关于jsDelivr运用于博客的优势本文不再赘述，具体请[访问这里](https://www.172u.cn "访问这里")。<br>
+https://www.jsdelivr.com 
+使用说明 
 https://cdn.jsdelivr.net/gh/user/repo@version/file  
 例子 图片项目路径  https://cdn.jsdelivr.net/gh/javadeath/Store/usr/uploads/2022/06/1200071023.png 
 
